@@ -1,0 +1,26 @@
+.Welcome_Speech{
+    padding: 2.5% 6%;
+    background-color: beige;
+    background-image: url(../img/green-texture.jpg);
+    opacity: 80%;
+    color: black;
+    background-size: cover;
+}
+.Welcome_Speech h1{
+    text-align: center;
+}
+.Welcome_Speech h4{
+    font-style: italic;
+    font-size: larger;
+    text-align: center;
+}
+
+.slope_calc{
+    padding: 2.5% 6%;
+}
+
+.slope_calc #ans, #ans1, #ans2{
+    margin: 2.5% 2%;
+    padding: 0.5% -0.6%;
+
+}
